@@ -43,7 +43,9 @@ http://localhost:8081/DLMS/index.jsp
 6... Sample users created in the project:
 username and password for Admin:
 Admin/Sudhish
+
 username and password for Professor:
 Sudhish/Sudhish
+
 username and password for Student:
 Sido/Sudhish
