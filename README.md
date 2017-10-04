@@ -1,19 +1,25 @@
 # repository
 Integrated Learning Management System (ILMS)
+
 	Project Title: Integrated Learning Management System (ILMS)
+	
 	Author: Sudhish Surendran Thazhakasseril
 
 
 Steps to run this Project...(ILMS)
 
 Softwares Required
+
 1... Apache Tomcat-8 -- to be used as webserver with port 8081
+
 2... Java  - jdk1.7.0_02
+
 3... Oracle Database 10g Express Edition -- to be used as DB server with port 8080
 
 
 
 Setup Instructions
+
 1... Install Oracle Database 10g. Now to start the server, go to the bin directory of the oracle 10g installation software.
 C:\oraclexe\app\oracle\product\10.2.0\server\BIN
 and run StartDB.bat
@@ -41,11 +47,17 @@ Now go down to Deploy block and upload the DLMS.war file present in the Project 
 http://localhost:8081/DLMS/index.jsp
 
 6... Sample users created in the project:
+
 username and password for Admin:
+
 Admin/Sudhish
 
+
 username and password for Professor:
+
 Sudhish/Sudhish
 
+
 username and password for Student:
+
 Sido/Sudhish
