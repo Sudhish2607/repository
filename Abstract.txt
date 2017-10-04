@@ -1,0 +1,24 @@
+	MCA Project title: Integrated Learning Management System (ILMS)
+	Author: Sudhish Surendran Thazhakasseril
+
+=========================ABSTRACT=========================
+
+This project “Integrated Learning Management System (ILMS)” is a software application for the administration, documentation, tracking, reporting and delivery of electronic educational technology (also called e-learning) courses or training programs.
+
+ILMS offers students the opportunity to explore and expand on theoretical concepts encountered throughout their academic studies in an applied real-life context. IMLS also assists students in their transition from educational to professional practice informed by experience, engagement and reflection. ILMS range from systems for managing training and educational records to software for distributing online or blended/hybrid college courses over the Internet with features for online collaboration. Traditionally, disciplines such as Medicine, Nursing, Education, and Law have incorporated ILMS into their programs. Colleges, universities, school districts, and schools use ILMSs to deliver online courses and augment on-campus courses. LMSs also act to augment the lessons the teacher is giving in a brick and mortar environment, not just replace them. Universities must use LMSs to deliver online training, as well as to automate record-keeping.
+
+Key functionalities of the proposed system:
+1. Data management and communications
+2. Data validation mechanism
+3. Translation between various languages enabled
+4. Comprehensive reporting
+5. Control and security of data
+6. Blog post and doubt solving session enabled
+7. Discussion forum and online chat session enabled.
+8. Objective performance measurement
+9. Data partitioning across training establishments
+10. Application configuration and news feeds support
+11. Ability to manage the demands of multiple users across the university through a scalable implementation
+12. Discussion forum for all the students enabled
+13. Asynchronous track of progress of students
+14. Supports “peer-to-peer” and informal learning 
